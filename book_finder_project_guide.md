@@ -1,4 +1,4 @@
-# Student Guide: Building a Book Finder Web Application
+# Book Finder Web Application
 
 In this project, you will build an interactive **Book Finder** web application using HTML, CSS, and vanilla JavaScript. 
 
